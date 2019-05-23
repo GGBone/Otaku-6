@@ -1,3 +1,10 @@
+/Library
+/Temp
+/obj
+*.pdb
+/.vs
+/*.csproj
+/*.collabignore
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
